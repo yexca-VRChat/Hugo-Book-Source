@@ -5,7 +5,10 @@ slug: /Upload/Upload
 lastmod: 2024-12-31
 ---
 
-## 引言
+{{% hint info %}}
+**成品模型上传**  
+终于成为 TA ///
+{{% /hint %}}
 
 成品模型指别人几乎什么都做好了的模型，自己只需要上传就行。
 通常可在 [Booth](https://booth.pm/zh-cn) 上购买

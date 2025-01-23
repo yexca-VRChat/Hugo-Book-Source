@@ -4,6 +4,11 @@ weight: 6
 slug: /div/Cloth
 ---
 
+{{% hint info %}}
+**Cloth**  
+Unity 布料系统
+{{% /hint %}}
+
 `布料(Cloth)`组件与`带蒙皮的网格渲染器(Skinned Mesh Renderer)`协同工作，从而提供基于物理的面料模拟解决方案。此组件是专为角色服装设计的，仅对蒙皮网格有效。如果向非蒙皮网格中添加`Cloth`组件，则 Unity 会删除非蒙皮网格并添加蒙皮网格。
 
 ## 网格与骨骼权重处理

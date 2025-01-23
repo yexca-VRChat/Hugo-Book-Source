@@ -4,6 +4,11 @@ weight: 1
 slug: /Upload/Prepare
 ---
 
+{{% hint info %}}
+**上传前准备**  
+从 VRChat 入门到 Unity 精通的道路开启啦！XD
+{{% /hint %}}
+
 ## 一、前提条件
 
 ### 1）拥有 VRChat 账号（官网注册）

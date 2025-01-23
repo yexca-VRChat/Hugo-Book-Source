@@ -4,6 +4,11 @@ weight: 5
 slug: /additional/gesture
 ---
 
+{{% hint info %}}
+**手势开关**  
+做一个手势出现一个效果。比如出现某物体，可以变出好多有趣的东西啦
+{{% /hint %}}
+
 目标：开关打开时，右手握拳触发动画
 
 [查表](/summary/parameters/#%E4%B8%89%E6%89%8B%E5%8A%BF%E5%AF%B9%E5%BA%94%E6%95%B0%E5%80%BC)知：右手手势参数为“GestureRight”，类型为“Int”；握拳时，“GestureRight”值为“1”

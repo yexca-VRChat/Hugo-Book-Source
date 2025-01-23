@@ -4,6 +4,11 @@ weight: 3
 slug: /editing/afk
 ---
 
+{{% hint info %}}
+**Action 层 - AFK**  
+对 Action 层修改的例子，修改模型的 AFK 动画
+{{% /hint %}}
+
 ## 一、什么是AFK
 
 AFK为使用VR游玩VRChat时摘下头显模型会做出的动作，默认为打坐

@@ -4,6 +4,11 @@ weight: 1
 slug: /other/VRLabs_Marker
 ---
 
+{{% hint info %}}
+**添加一个可以写字的笔**  
+VRLabs 的东西真的很不错，可以看看其他的
+{{% /hint %}}
+
 ## 工具
 
 这里使用VRLabs的免费商品：[VRLabs Marker | マーカー – VRLabs – BOOTH](https://booth.pm/zh-cn/items/2911163)

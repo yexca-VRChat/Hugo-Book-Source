@@ -4,6 +4,11 @@ weight: 2
 slug: /div/VRC_Avatar_Descriptor
 ---
 
+{{% hint info %}}
+**VRC Avatar Descriptor**  
+VRChat 的模型描述文件
+{{% /hint %}}
+
 ## 添加描述文件
 
 在“层级”中选中模型名字即可在右方组件搜索添加“VRC Avatar Descriptor”

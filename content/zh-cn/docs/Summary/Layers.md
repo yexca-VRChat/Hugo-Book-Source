@@ -4,11 +4,16 @@ weight: 11
 slug: /Summary/Layers
 ---
 
+{{% hint info %}}
+**Animator Layers**  
+Unity 图层的机制，模型是如何被修改的呢？
+{{% /hint %}}
+
 不同图层的状态可以同时发生，同一图层同时只能执行一个状态
 
 ## 图层
 
-点击`+`可以添加一个图层，点击图层旁边的齿轮图标，会弹出一个小窗口，可以设置该图层对应的参数
+点击 `+` 可以添加一个图层，点击图层旁边的齿轮图标，会弹出一个小窗口，可以设置该图层对应的参数
 
 | 属性         | 描述                                                         |
 | ------------ | ------------------------------------------------------------ |
@@ -109,7 +114,7 @@ slug: /Summary/Layers
 
 上面的参数不仅可以手动修改，也可以通过过渡图预览和修改
 
-![](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/07-Layers/image.d1zgl4fkjnc.webp)
+![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/07-Layers/image.d1zgl4fkjnc.webp)
 
 #### 中断源(Interruption Source)
 
@@ -117,7 +122,7 @@ slug: /Summary/Layers
 
 例如以下图层
 
-![](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/07-Layers/image.3j6e8ox86fg0.webp)
+![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/07-Layers/image.3j6e8ox86fg0.webp)
 
 ##### Current State(当前状态)
 
@@ -125,7 +130,7 @@ slug: /Summary/Layers
 
 在状态A上的过渡如下：
 
-![](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/07-Layers/image.3te260424lu0.webp)
+![img](https://jsd.cdn.zzko.cn/gh/yexca/picx-images-hosting@master/2022-VRChat/07-Layers/image.3te260424lu0.webp)
 
 `一些`的原因：若勾选`Ordered Interruption`则只有优先级比A->B高的才能打断
 
@@ -178,7 +183,7 @@ slug: /Summary/Layers
 | Current State Then Next State | 决定哪个动画State上的过渡节点优先权更高，先看前一个State的优先级如果没有被触发，再看后一个State的优先级，来达到不同的融合与打断效果 |
 | Next State Then Current State | 决定哪个动画State上的过渡节点优先权更高，与上一个相反        |
 
- ### Condition
+### Condition
 
  过渡条件，一个过渡可以有一个条件，也可以有多个条件，甚至没有条件
 
@@ -197,6 +202,6 @@ slug: /Summary/Layers
 
 如果`Has Exit Time`勾选了，并且过渡还有一个或多个条件，那么过渡需要同时满足到达`Exit Time`，同时条件全为true，才会切换到下一个state
 
-**一个过渡至少要有一个条件（Has Exit Time可以作为一个条件），否则过渡将会被忽略(不会被执行进入下一个状态)**
+> 一个过渡至少要有一个条件（Has Exit Time可以作为一个条件），否则过渡将会被忽略(不会被执行进入下一个状态)
 
-*注：Trigger貌似在VRChat中没有作用，至少我不知道*
+注：*Trigger貌似在VRChat中没有作用，至少我不知道*

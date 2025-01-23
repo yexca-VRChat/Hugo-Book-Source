@@ -4,6 +4,11 @@ weight: 4
 slug: /additional/set_MMD
 ---
 
+{{% hint info %}}
+**固定世界 MMD**  
+让一个模型在一个地方跳舞
+{{% /hint %}}
+
 ## 一、将MMD舞蹈转换为动画文件
 
 ### 1）下载VRC工具箱

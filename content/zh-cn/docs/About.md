@@ -6,7 +6,16 @@ type: docs
 slug: /about
 ---
 
+{{% hint info %}}
+**关于**  
+感谢您来到这里
+{{% /hint %}}
+
 ## 历史更新记录
+
+2025.01.23  
+添加之前网站的链接，事实上原先的还保留着: <https://docsifyvrchat.yexca.net/>  
+文章前加上小介绍吧，毕竟这个主题每个文章页面没标题
 
 2024.12.31  
 转换至 [Hugo Book](https://themes.gohugo.io/themes/hugo-book/)，修复部分错误，调整部分文章符合 markdownlint 规范

@@ -4,6 +4,11 @@ weight: 2
 slug: /other/Blender_change_head
 ---
 
+{{% hint info %}}
+**Blender 换头**  
+哪个男孩不想自由换头呢 (doge)
+{{% /hint %}}
+
 ## 模型文件
 
 将俩模型文件放入同一文件夹，如果有重名文件可重命名然后参考[问题](/other/blender_change_head/#%E9%97%AE%E9%A2%98%E5%AF%BC%E5%85%A5%E5%90%8E%E6%9D%90%E8%B4%A8%E8%B4%B4%E5%9B%BE%E4%B8%8D%E6%98%BE%E7%A4%BA)进入软件后选择相应贴图

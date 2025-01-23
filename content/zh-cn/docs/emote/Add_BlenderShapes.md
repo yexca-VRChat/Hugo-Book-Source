@@ -4,6 +4,11 @@ weight: 2
 slug: /emote/Add_BlenderShapes
 ---
 
+{{% hint info %}}
+**Blender 添加形态键**  
+表情本质上就是形态键，自定义表情前需要知道有哪些或者自己制作啦
+{{% /hint %}}
+
 ## 导入模型
 
 导入待加表情的模型，然后隐藏

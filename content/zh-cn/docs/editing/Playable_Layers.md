@@ -4,6 +4,11 @@ weight: 1
 slug: /editing/Playable_Layers
 ---
 
+{{% hint info %}}
+**添加默认图层与菜单**  
+改模前的必备条件啦
+{{% /hint %}}
+
 如果是SDK3模型，可能已经有了数值和菜单，如没有参考以下操作
 
 ## 动画层

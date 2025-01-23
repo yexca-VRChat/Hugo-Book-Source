@@ -4,6 +4,11 @@ weight: 3
 slug: /Upload/mmd_to_fbx
 ---
 
+{{% hint info %}}
+**MMD 模型转为 FBX**  
+好多好看的 MMD 模型，我该如何成为 TA 呢？
+{{% /hint %}}
+
 ## 引言
 
 MMD 模型不能被 Unity 识别，可以通过两种方法进行转换，本文借助 Blender 转换，借助插件转换请参考[将 MMD 模型导入 unity – yexca'Blog](https://blog.yexca.net/archives/28/)

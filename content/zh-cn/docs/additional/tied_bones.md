@@ -4,6 +4,11 @@ weight: 1
 slug: /additional/tied_bones
 ---
 
+{{% hint info %}}
+**物体绑骨**  
+让物体随着我移动
+{{% /hint %}}
+
 ## 简述
 
 物品绑骨可以让物品随骨骼运动，例如眼镜绑定头部骨骼，剑绑定手部骨骼

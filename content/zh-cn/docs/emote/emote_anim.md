@@ -4,6 +4,11 @@ weight: 1
 slug: /emote/emote_anim
 ---
 
+{{% hint info %}}
+**添加手势表情**  
+手势是一个数值，检测数值变化改变形态键，从而实现对应手势呈现对应表情
+{{% /hint %}}
+
 ## 前言
 
 本质是用模型的“Body”或“Face”的“BlendShapes”制作，如果没有，可能需要去一些建模软件进行添加

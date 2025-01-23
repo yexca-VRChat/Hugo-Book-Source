@@ -4,9 +4,14 @@ weight: 5
 slug: /div/State_Behaviors
 ---
 
+{{% hint info %}}
+**State Behaviors**  
+状态行为脚本
+{{% /hint %}}
+
 ## 添加
 
-在“动画器-图层”点击一个状态，在“检查器”中点击“添加行为”即可看到VRC的脚本
+在“动画器-图层”点击一个状态，在“检查器”中点击“添加行为”即可看到 VRC 的脚本
 
 ## Animator Layer Controller
 

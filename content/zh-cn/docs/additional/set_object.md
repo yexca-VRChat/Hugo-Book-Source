@@ -4,6 +4,11 @@ weight: 3
 slug: /additional/set_object
 ---
 
+{{% hint info %}}
+**固定世界物品**  
+放一个物品在世界里
+{{% /hint %}}
+
 ## 一、使用预制件
 
 ### 1）下载并导入Unity

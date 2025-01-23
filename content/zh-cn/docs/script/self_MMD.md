@@ -4,7 +4,10 @@ weight: 1
 slug: /script/self_MMD
 ---
 
-(Animator Locomotion Control)
+{{% hint info %}}
+**自身跳 MMD 舞蹈**  
+使用 Animator Locomotion Control 脚本的一个例子，变可爱后怎么会忍住不跳舞呢
+{{% /hint %}}
 
 ## 一、文件准备
 

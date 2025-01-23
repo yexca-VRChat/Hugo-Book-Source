@@ -4,11 +4,14 @@ weight: 3
 slug: /script/play_in_order
 ---
 
-(Avatar Parameter Driver)
+{{% hint info %}}
+**顺序播放音乐**  
+使用 Avatar Parameter Driver 脚本的一个例子，本以为挺简单的，没想到有点复杂
+{{% /hint %}}
 
 ## 一、准备文件
 
-已经录好开关音频的动画文件，可参考：[自身跳MMD舞蹈](/script/self_mmd/#%E4%BA%8C%E5%88%B6%E4%BD%9C%E9%9F%B3%E4%B9%90%E5%BC%80%E5%85%B3)
+已经录好开关音频的动画文件，可参考：[自身跳 MMD 舞蹈](/script/self_mmd/#%E4%BA%8C%E5%88%B6%E4%BD%9C%E9%9F%B3%E4%B9%90%E5%BC%80%E5%85%B3)
 
 ## 二、参数
 

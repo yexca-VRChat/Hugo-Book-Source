@@ -1,22 +1,15 @@
 ---
-weight: 1
+weight: -90
 bookFlatSection: true
-title: "首页"
+title: "目录"
 type: docs
+slug: /home
 ---
 
-{{% hint warning %}}
-**公告**  
-学业繁忙，不再更新维护，请勿问我问题，不会回复！~~因为我也不会~~
+{{% hint info %}}
+**目录**  
+这里有什么呢？
 {{% /hint %}}
-
-## 最近消息
-
-2025.01.23  
-添加之前网站的链接，事实上原先的还保留着: <https://docsifyvrchat.yexca.net/>  
-文章前加上小介绍吧，毕竟这个主题每个文章页面没标题
-
-## 说明/目录
 
 * [VRC Avatar Descriptor](/div/vrc_avatar_descriptor/) *VRChat描述文件的介绍*
 * [PhysBones](/dynamics/physbones/) *VRChat动骨的介绍*
@@ -61,31 +54,3 @@ type: docs
   * [PC下移动手](/other/pc_arm_moving/)
 * [关于](/about/)
 * [参考资料](/references/)
-
-~~原本只是说明，考虑到手机端不是太方便观看便加上目录~~  
-
-另外我 VRChat 的 ID 为 [yexca](https://vrchat.com/home/user/usr_16490da9-3083-4d90-baab-f19d939c2732)  
-*放出 ID 只是防止被冒充*
-
-## 待办
-
-以下是通过评论或私信或其他渠道希望我做的相关内容，说实话与其等我写出来不如自己去研究 ~~(等我做出来自己早就精通了)~~  
-按照时间顺序排列，已经做好就不放链接了，左上角有搜索  
-*斜体表示应该不会做，未标注原因则为没时间*
-
-* [x] SDK描述文件(VRC Avatar Descriptor)的介绍
-* [x] 修改/制作表情动画
-* [X] Blender换头
-* [X] 粒子系统（这个因个人能力有限，可能不会做视频）
-* [X] 顺序播放音乐
-* [X] 按手势 拔出和发射武器
-* [X] 更改自身亮度
-* [X] 制作动作动画
-* [X] 出场动画
-* [ ] *换头发(我好像没有相关物品，可能做不了)*
-* [X] 换颜色
-* [X] 多个头手势与嘴型
-* [X] 挥动武器显示特效
-* [X] 摇尾巴  
-* [ ] *Blender换衣服*
-* [ ] *弗利萨超行星特效* ~~(这都什么玩意)~~

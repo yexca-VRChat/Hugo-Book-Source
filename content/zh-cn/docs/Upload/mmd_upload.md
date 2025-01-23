@@ -4,6 +4,11 @@ weight: 4
 slug: /Upload/mmd_upload
 ---
 
+{{% hint info %}}
+**MMD 模型上传**  
+这下可以用海量的 MMD 模型啦 ~~(虽然很麻烦就是啦)~~
+{{% /hint %}}
+
 ## 一、MMD 模型导入 Unity
 
 [上篇文章](/upload/mmd_to_fbx)讲述了 MMD 模型转换为 FBX，现在将 MMD 模型所有的文件都导入 Unity

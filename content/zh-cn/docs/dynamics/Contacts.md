@@ -4,6 +4,11 @@ weight: 4
 slug: /dynamics/Contacts
 ---
 
+{{% hint info %}}
+**Contacts**  
+VRChat 交互系统
+{{% /hint %}}
+
 ## 前言
 
 交互系统(Contacts)允许角色检测与自己或其他人的信号，然后可以使用这些信号产生的参数来触发动画

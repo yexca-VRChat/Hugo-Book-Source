@@ -4,6 +4,11 @@ weight: 3
 slug: /other/PC_Arm_Moving
 ---
 
+{{% hint info %}}
+**PC 下移动手**  
+没有 VR 也可以有简单的移动啦！
+{{% /hint %}}
+
 Two Axis Puppet
 
 ## 动画

@@ -4,6 +4,11 @@ weight: 10
 slug: /Summary/Parameters
 ---
 
+{{% hint info %}}
+**Parameters**  
+修改的时候可以用到哪些参数呢？
+{{% /hint %}}
+
 过渡的条件可使用官方数值，只需要在”动画器-参数”添加类型和名字与官方数值相同的参数即可
 
 ## 一、数值类型

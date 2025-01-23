@@ -4,6 +4,11 @@ weight: 2
 slug: /additional/change_clothes
 ---
 
+{{% hint info %}}
+**给模型换衣服**  
+作者做的适配衣服和其他角色的衣服都可以穿啦
+{{% /hint %}}
+
 ## 一、适配衣服
 
 ### 1）已换好

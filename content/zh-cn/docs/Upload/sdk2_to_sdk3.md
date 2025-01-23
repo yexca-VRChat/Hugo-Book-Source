@@ -4,6 +4,11 @@ weight: 5
 slug: /Upload/sdk2_to_sdk3
 ---
 
+{{% hint info %}}
+**SDK2 转为 SDK3**  
+新版本不支持 SDK2 了，不得不修改啦 ~~(其实老版本 Unity 还能用)~~
+{{% /hint %}}
+
 ## 一、导入相关
 
 不用导入SDK2，导入上传SDK3模型需要的东西即可

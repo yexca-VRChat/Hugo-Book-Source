@@ -4,11 +4,14 @@ weight: 2
 slug: /script/Shuffle_Playback
 ---
 
-(Avatar Parameter Driver)
+{{% hint info %}}
+**随机播放音乐**  
+使用 Avatar Parameter Driver 脚本想到的一个例子，哪个男孩不想自定义一个播放器呢
+{{% /hint %}}
 
 ## 一、准备文件
 
-已经录好开关音频的动画文件，可参考：[自身跳MMD舞蹈](/script/self_mmd/#%E4%BA%8C%E5%88%B6%E4%BD%9C%E9%9F%B3%E4%B9%90%E5%BC%80%E5%85%B3)
+已经录好开关音频的动画文件，可参考：[自身跳 MMD 舞蹈](/script/self_mmd/#%E4%BA%8C%E5%88%B6%E4%BD%9C%E9%9F%B3%E4%B9%90%E5%BC%80%E5%85%B3)
 
 ## 二、参数
 
